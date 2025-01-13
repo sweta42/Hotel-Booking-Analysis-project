@@ -7,10 +7,13 @@ This data set contains booking information for a city hotel and a resort hotel, 
 We will perform exploratory data analysis with python to get insight from the data.
 
 ## Table of Content:
-*Motivation
-*Tools and Libraries Used
-*Files
-*Result
+-Motivation
+
+-Tools and Libraries Used
+
+- Files
+- 
+- Result
 
 ## Motivation
 ### 1.e have tried to answer the following Questions
