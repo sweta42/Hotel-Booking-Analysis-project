@@ -50,46 +50,46 @@ This repository contains two files other than readme file
 
 #### Dataset contains following features:
 
-1.hotel
-2.is_canceled
-3.lead_time
-4.arrival_date_year
-5.arrival_date_month
-6.arrival_date_week_number
-7.arrival_date_day_of_month
-8.stays_in_weekend_nights
-9.stays_in_week_nights
-10.adults
-11.children
-12.babies
-13.meal
-14.country
-15.market_segment
-16.distribution_channel
-17.is_repeated_guest
-18.previous_cancellations
-19.previous_bookings_not_canceled
-20.reserved_room_type
-21.assigned_room_type
-22.booking_changes
-23.deposit_type
-24.agent
-25.company
-26.days_in_waiting_list
-27.customer_type
-28.adr
-29.required_car_parking_spaces
-30.total_of_special_requests
-31.reservation_status
-32.reservation_status_date
+1.hotel<br>
+2.is_canceled<br>
+3.lead_time<br>
+4.arrival_date_year<br>
+5.arrival_date_month<br>
+6.arrival_date_week_number<br>
+7.arrival_date_day_of_month<br>
+8.stays_in_weekend_nights<br>
+9.stays_in_week_nights<br>
+10.adults<br>
+11.children<br>
+12.babies<br>
+13.meal<br>
+14.country<br>
+15.market_segment<br>
+16.distribution_channel<br>
+17.is_repeated_guest<br>
+18.previous_cancellations<br>
+19.previous_bookings_not_canceled<br>
+20.reserved_room_type<br>
+21.assigned_room_type<br>
+22.booking_changes<br>
+23.deposit_type<br>
+24.agent<br>
+25.company<br>
+26.days_in_waiting_list<br>
+27.customer_type<br>
+28.adr<br>
+29.required_car_parking_spaces<br>
+30.total_of_special_requests<br>
+31.reservation_status<br>
+32.reservation_status_date<br>
 
 ## Result
 We learned that
 
-1.Almost 35% of bookings were canceled.
-2.More than 60% of the population booked the City hotel.
-3.More than double bookings were made in 2016, compared to the previous year. But the bookings decreased by almost 15% next year.
-4.Most bookings were made from July to August. And the least bookings were made at the start and end of the year.
-5.Portugal, the UK, and France, Spain and Germany are the top countries from most guests come, more than 80% come from these 5 countries.
-6.Most people stay for one, two, or three. -> For Resort hotel, the most popular stay duration is three, two, one, and four days respectively. -> For City hotel, most popular stay duration is one, two, seven(week), and three respectively
-7.Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly
+1.Almost 35% of bookings were canceled.<br>
+2.More than 60% of the population booked the City hotel.<br>
+3.More than double bookings were made in 2016, compared to the previous year. But the bookings decreased by almost 15% next year.<br>
+4.Most bookings were made from July to August. And the least bookings were made at the start and end of the year.<br>
+5.Portugal, the UK, and France, Spain and Germany are the top countries from most guests come, more than 80% come from these 5 countries.<br>
+6.Most people stay for one, two, or three. -> For Resort hotel, the most popular stay duration is three, two, one, and four days respectively. -> For City hotel, most popular stay duration is one, two, seven(week), and three respectively<br>
+7.Couple (or 2 adults) is the most popular accommodation type. So hotels can make arrangement plans accordingly<br>
