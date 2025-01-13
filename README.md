@@ -7,7 +7,7 @@ This data set contains booking information for a city hotel and a resort hotel, 
 We will perform exploratory data analysis with python to get insight from the data.
 
 ## Table of Content:
-- Motivation[https://github.com/sweta42/Hotel-Booking-Analysis-project?tab=readme-ov-file#motivation]
+- .[Motivation].(https://github.com/sweta42/Hotel-Booking-Analysis-project?tab=readme-ov-file#motivation)
 - Tools and Libraries Used
 - Files
 - Result
