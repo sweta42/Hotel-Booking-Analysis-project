@@ -11,7 +11,7 @@ We will perform exploratory data analysis with python to get insight from the da
 - [Tools and Libraries Used](https://github.com/sweta42/Hotel-Booking-Analysis-project?tab=readme-ov-file#tools-and-libraries-used)
 - [Usage](https://github.com/sweta42/Hotel-Booking-Analysis-project/blob/main/README.md#usage)
 - [Files](https://github.com/sweta42/Hotel-Booking-Analysis-project?tab=readme-ov-file#file)
-- Result
+- [Result](https://github.com/sweta42/Hotel-Booking-Analysis-project/blob/main/README.md#result)
 
 ## Motivation
 ### 1.e have tried to answer the following Questions
