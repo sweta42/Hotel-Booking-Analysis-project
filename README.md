@@ -8,7 +8,7 @@ We will perform exploratory data analysis with python to get insight from the da
 
 ## Table of Content:
 - [Motivation](https://github.com/sweta42/Hotel-Booking-Analysis-project?tab=readme-ov-file#motivation)
-- Tools and Libraries Used
+- [Tools and Libraries Used](https://github.com/sweta42/Hotel-Booking-Analysis-project?tab=readme-ov-file#tools-and-libraries-used)
 - Files
 - Result
 
